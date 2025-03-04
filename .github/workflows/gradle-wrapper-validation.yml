@@ -10,7 +10,7 @@ on:
       - 'mkdocs.yml'
   push:
     branches:
-      - main
+      - kotlin2.1-test
 
 jobs:
   validation:
